@@ -1,0 +1,16 @@
+C:\Users\yldrm\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\yldrm\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\yldrm\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\yldrm\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\yldrm\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yldrm\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\yldrm\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\yldrm\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\yldrm\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\yldrm\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yldrm\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\yldrm\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojResolveAssemblyReference.cache
+C:\Users\yldrm\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.ConsoleApp5.exe.config
+C:\Users\yldrm\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\yldrm\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\yldrm\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
